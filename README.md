@@ -17,3 +17,11 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
 * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
